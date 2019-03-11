@@ -27,16 +27,16 @@ Here's a walkthrough of implemented user stories:
 
 ## Lessons Learned
 
-Parse
-Heroku
-NPM
-Connecting Client Side Application with Parse Server
-Authentication
-Segue Identifiers
-UIImagePicker
-Open Camera/Photo Library
-Add Photo Editing
-Reducing image file size
-Storing data as objects
-Pulling data from objects
-Changing permissions in Info.plist
+- Parse
+- Heroku
+- NPM
+- Connecting Client Side Application with Parse Server
+- Authentication
+- Segue Identifiers
+- UIImagePicker
+- Open Camera/Photo Library
+- Add Photo Editing
+- Reducing image file size
+- Storing data as objects
+- Pulling data from objects
+- Changing permissions in Info.plist
